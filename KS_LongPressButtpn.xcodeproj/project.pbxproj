@@ -11,6 +11,7 @@
 		ADF57BB72BAB6C6700CF89F4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF57BB62BAB6C6700CF89F4 /* ContentView.swift */; };
 		ADF57BB92BAB6C6A00CF89F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADF57BB82BAB6C6A00CF89F4 /* Assets.xcassets */; };
 		ADF57BBC2BAB6C6A00CF89F4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADF57BBB2BAB6C6A00CF89F4 /* Preview Assets.xcassets */; };
+		ADF57BC32BAB6C9300CF89F4 /* HoldDownButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF57BC22BAB6C9300CF89F4 /* HoldDownButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		ADF57BB62BAB6C6700CF89F4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ADF57BB82BAB6C6A00CF89F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADF57BBB2BAB6C6A00CF89F4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ADF57BC22BAB6C9300CF89F4 /* HoldDownButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoldDownButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				ADF57BB42BAB6C6700CF89F4 /* KS_LongPressButtpnApp.swift */,
 				ADF57BB62BAB6C6700CF89F4 /* ContentView.swift */,
+				ADF57BC22BAB6C9300CF89F4 /* HoldDownButton.swift */,
 				ADF57BB82BAB6C6A00CF89F4 /* Assets.xcassets */,
 				ADF57BBA2BAB6C6A00CF89F4 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				ADF57BB72BAB6C6700CF89F4 /* ContentView.swift in Sources */,
 				ADF57BB52BAB6C6700CF89F4 /* KS_LongPressButtpnApp.swift in Sources */,
+				ADF57BC32BAB6C9300CF89F4 /* HoldDownButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
